@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Script that reminds and schedules community calls",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Portia Burton",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.4.1",
+    "request": "^2.88.0"
+  }
+}
